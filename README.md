@@ -146,7 +146,7 @@
 
 > `Entre na página do repositório` > Code > `Copie a url`
 
-> `$ git remove add origin url_repositorio_remoto`
+> `$ git remote add origin url_repositorio_remoto`
 
 ### Clonar determinada branch
 
